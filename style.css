@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('img/571034660c9f61c65b51de66bb4af2a6\ 1\ \(1\).png') ;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    text-align: center;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+h1{
+    padding-top: -5%;
+    font-size: 62px;
+    font-family: 'Yanone Kaffeesatz';
+    letter-spacing: 0.23em;
+}
+
+h2{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Yaldevi'
+}
+.logo{
+    width: 10%;
+    height: 10%;
+    padding-top: 3%;
+}
+.text1{
+    font-family: 'Yaldevi';
+    letter-spacing: 0.15em;
+    font-weight: 200;
+
+}
+.imagescinema{
+    display: flex;
+    justify-content: space-between;;
+}
+.img1{
+    width: 350px;
+    height: 450px;
+    font-size: 24px;
+   
+}
+
+.img2{
+    width: 350px;
+    height: 450px;
+    font-size: 24px;
+    margin-left: 9%;
+   
+}
+.img3{
+    width: 350px;
+    height: 450px;
+    font-size: 24px;
+    margin-left: 35%;
+    margin-top: -10%;
+}
+.hatiko{
+    width: 150px;
+    height: 190px;
+
+}
+.legend{
+    width: 250px;
+    height: 190px;
+    padding: 5px; 
+}/*
+.imgdance{
+    width: 150px;
+    height: 180px;
+}*/
+
+
